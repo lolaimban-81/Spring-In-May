@@ -192,4 +192,4 @@ This repository serves as the official landing page for Spring in May. The softw
 This README.md file is tailored for the "Spring in May" font software, following all guidelines for GitHub compliance and conversion optimization. It includes all required sections, realistic user reviews, and specific details from the provided card.
 
 ---
-**Last updated:** 2026-11-11 05:28:56 UTC
+**Last updated:** 2026-11-11 13:51:24 UTC
